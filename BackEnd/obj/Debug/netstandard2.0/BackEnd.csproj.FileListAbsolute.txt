@@ -1,0 +1,8 @@
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\bin\Debug\netstandard2.0\BackEnd.deps.json
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\bin\Debug\netstandard2.0\BackEnd.dll
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\bin\Debug\netstandard2.0\BackEnd.pdb
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\obj\Debug\netstandard2.0\BackEnd.AssemblyInfoInputs.cache
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\obj\Debug\netstandard2.0\BackEnd.AssemblyInfo.cs
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\obj\Debug\netstandard2.0\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\obj\Debug\netstandard2.0\BackEnd.dll
+C:\Users\aungureanu\Desktop\FileChecker-master\BackEnd\obj\Debug\netstandard2.0\BackEnd.pdb
